@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qKX6fTYC98Yh9gwGtPnslbt9PnyC/i24ZifU1RYBfmc=",
+  "Source": "WebHook",
+  "BasePath": "_content/WebHook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

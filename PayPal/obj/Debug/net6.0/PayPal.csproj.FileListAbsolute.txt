@@ -1,0 +1,12 @@
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\bin\Debug\net6.0\PayPal.deps.json
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\bin\Debug\net6.0\PayPal.dll
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\bin\Debug\net6.0\PayPal.pdb
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\PayPal.csproj.AssemblyReference.cache
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\PayPal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\PayPal.AssemblyInfoInputs.cache
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\PayPal.AssemblyInfo.cs
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\PayPal.csproj.CoreCompileInputs.cache
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\PayPal.dll
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\refint\PayPal.dll
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\PayPal.pdb
+C:\Users\umerw\source\repos\TecnicalVoiceApp\PayPal\obj\Debug\net6.0\ref\PayPal.dll
