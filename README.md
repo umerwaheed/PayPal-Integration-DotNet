@@ -1,5 +1,5 @@
 # PayPal-Integration-DotNet
-This Repository has code about how you can integrate PayPal into your DOTNET Application and the main focus is on PayPal Subscription.
+This Repository has code about how you can integrate PayPal into your DOTNET Application and the main focus is on PayPal Subscription. I'm using the .NET 6 version but I'm not using any PayPal SDK. So, you can use the same code in any DOTNET Version.
 
 There are three Projects:
 1. TechnicalVoiceApp:This is the console application just for the demo to send requests to PayPal using REST API. You can consider as the UI of your web application.
@@ -27,5 +27,5 @@ This repo contains the following:
 
 7- How to cancel, activate and suspend subscriptions.
 
-Youtube Tutorial:
+Youtube Tutorials:
 https://www.youtube.com/watch?v=-e2CFvBhh8s&list=PL908CcBgcZDe5mRwJe-YbAj0lKO2zkJt-
